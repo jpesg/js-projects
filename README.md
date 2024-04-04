@@ -1,3 +1,3 @@
 # JS PROJECTS
 
-## Monkeytpe 
+## Monkeytype 
